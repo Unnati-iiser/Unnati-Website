@@ -5,6 +5,6 @@
     <p> This is us and we are it.</p>
     <h3>Our activities</h3>
     <p> We do what we do</p>
-    <h2><i>CONTACT US:</i></h2>
+    <h4><i>CONTACT US:</i></h4>
    </body>
  </html>
